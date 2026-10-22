@@ -7,11 +7,22 @@
 
 <br>
 
+<table>
+<tr>
+<td width="210" align="center" valign="top">
+<img src="./profile.png" width="180" alt="Md Abdul Basid">
+</td>
+<td valign="top">
+
 ## About
 
 2026 B.E. Computer Science (Data Science) graduate from Bengaluru with a strong base in Python, SQL, data engineering and analytics. I build ETL pipelines, clean real-world datasets, integrate REST APIs, and turn raw numbers into dashboards and recommendations people can act on.
 
 I'm looking for **Data Analyst**, **Data Engineer** and **Data Scientist** roles.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 

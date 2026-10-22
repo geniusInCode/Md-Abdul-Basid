@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/abdul-hero-static.svg">
-    <img src="./assets/abdul-hero.svg" alt="Md Abdul Basid — Data Analyst, Data Engineer, Data Scientist" width="100%">
+    <source media="(prefers-reduced-motion: reduce)" srcset="./abdul-hero-static.svg">
+    <img src="./abdul-hero.svg" alt="Md Abdul Basid — Data Analyst, Data Engineer, Data Scientist" width="100%">
   </picture>
 </div>
 
@@ -86,7 +86,7 @@ I'm looking for **Data Analyst**, **Data Engineer** and **Data Scientist** roles
 
 <div align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/abdul-footer-static.svg">
-    <img src="./assets/abdul-footer.svg" alt="" width="100%">
+    <source media="(prefers-reduced-motion: reduce)" srcset="./abdul-footer-static.svg">
+    <img src="./abdul-footer.svg" alt="" width="100%">
   </picture>
 </div>
